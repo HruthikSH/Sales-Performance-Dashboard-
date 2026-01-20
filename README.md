@@ -1,4 +1,4 @@
-# Sales Performance Dashboard 📊
+# Sales Performance Analysis 📊
 
 ## Project Overview
 This project analyzes sales performance using Excel, SQL (MySQL), and Power BI.  
